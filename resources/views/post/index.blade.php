@@ -12,6 +12,8 @@
                            href="{{ route('post.create') }}"> @lang("Add Contact")</a>
                     </div>
 
+        </td>
+
 
         </div>
 
